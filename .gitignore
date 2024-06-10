@@ -5,3 +5,4 @@ files/stubs/*
 files/tuning_images/*
 files/output/csv/*
 files/output/video/*
+utils/__pycache__
